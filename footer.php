@@ -17,7 +17,7 @@
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'codergv' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'codergv' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'codergv' ), 'codergv', '<a href="http://www.codergv.org" rel="designer">CodeRGV Community</a>' ); ?>
+			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'codergv' ), 'codergv', '<a href="http://www.codergv.org" rel="designer">CodeRGV Community ;)</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
